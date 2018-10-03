@@ -1,0 +1,97 @@
+body{
+    margin:50px;  
+}
+
+#headerBox{
+    background-color: rgb(181, 231, 105);
+    width:100%;
+    height:150px;
+    text-align: center;
+    vertical-align: center;
+    line-height: 150px;
+    font-size: 45px;
+    font-weight: bold;
+    font-family: 'Slabo 27px', serif;
+    box-shadow: 2px 2px 2px gray;
+    color:rgb(53, 49, 49);
+}
+
+h3{
+    font-weight: bold;
+    font-family: sans-serif;
+    color:rgb(53, 49, 49);
+    font-size: 30px;
+}
+
+#contOne{
+    text-align: left;
+    width:100%;
+    height:auto;
+    margin-left: 20px;
+}
+
+#btnStyle{
+    font-weight: bold;
+    font-family: sans-serif;
+    width:150px;
+    height: 60px;
+    background-color: rgb(181, 231, 105);
+    border: none;
+    box-shadow: 2px 2px 2px grey;
+    font-size: 20px;
+    margin:0px auto 10px 0px;
+    color:rgb(53, 49, 49);
+}
+
+#btnStyle:hover{
+    background-color: skyblue;
+}
+
+#tableBox{
+    margin-top:20px;
+    margin-left: 20px;
+    width: 100%;
+    height: 1000px;
+}
+
+#overLordBox{
+    width:90%;
+    height:500px;
+    margin-right:auto;
+    margin-left:auto;
+}
+
+#picBox{
+    width: 200px;
+    height: 200px;
+    border:4px solid black;
+    float:left;
+    margin: 5px 0px 0px 5px;
+}
+
+form{
+    margin-left:20px;
+    margin-bottom:300px;
+}
+h2{
+    margin-left:20px;
+}
+
+#links{
+    float:right;
+    font-family: 'Slabo 27px', serif;
+}
+a{
+    text-decoration: none;
+    color:rgb(70, 160, 196);
+}
+
+select{
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+h4{
+    font-size: 20px;
+    font-family: sans-serif;
+}
